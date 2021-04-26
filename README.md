@@ -1,0 +1,2 @@
+# gxj-warehouse
+simple procedure
